@@ -1,3 +1,0 @@
-pandas==1.2.1
-streamlit==0.75.0
-openpyxl==3.0.6
