@@ -7,7 +7,7 @@ features = st.beta_container()
 modelTraining = st.beta_container()
 
 with header:
-    st.title('Welcome to a Scratch Score Application!')
+    st.title('Welcome!!! to a Scratch Score Application!')
 
 with dataset:
     st.header('Dataset')
